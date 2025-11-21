@@ -5,6 +5,8 @@ I am a Senior Statistician with extensive experience in designing, modeling, and
 
 - **Location**: Caracas
 - **LinkedIn**: [Philippe Tadger](https://www.linkedin.com/in/philippe-tadger-viloria/)
+- **Link CV**: Statistician ([https://github.com/ptadgerv/ptadgerv.github.io/blob/main/Philippe_Tadger_CV%20.pdf]([url](https://github.com/ptadgerv/ptadgerv.github.io/blob/main/Philippe_Tadger_CV%20.pdf)
+- 
 - **ORCID**: 0000-0002-1453-4105
 
 ## Key Skills
